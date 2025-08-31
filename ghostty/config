@@ -1,0 +1,26 @@
+#background = 282c34
+#foreground = 52bcc4
+# Fonts
+font-family = "Fira Code Retina"
+font-family-bold = "Fira Code Retina"
+font-family-italic = "Fira Code Retina"
+font-family-bold-italic = "Fira Code Retina"
+font-size = 16
+
+adjust-underline-position = 4
+
+
+shell-integration = zsh
+background-opacity = 1.0
+mouse-scroll-multiplier = 2
+
+# Theme
+theme = Dracula	
+
+mouse-hide-while-typing = true
+
+selection-invert-fg-bg = true 
+
+adjust-cursor-thickness = 6
+
+scrollback-limit = 104857600
