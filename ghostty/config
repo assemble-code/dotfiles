@@ -15,7 +15,7 @@ background-opacity = 1.0
 mouse-scroll-multiplier = 2
 
 # Theme
-theme = Dracula	
+theme = Catppuccin Mocha
 
 mouse-hide-while-typing = true
 
